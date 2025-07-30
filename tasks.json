@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Learn Python",
+        "done": true
+    },
+    {
+        "task": "Learn Machine Learning",
+        "done": false
+    },
+    {
+        "task": "Learn Automation",
+        "done": false
+    },
+    {
+        "task": "Data Science",
+        "done": true
+    },
+    {
+        "task": "AI Agents",
+        "done": false
+    },
+    {
+        "task": "Learn Cloud Computing",
+        "done": true
+    },
+    {
+        "task": "Learn Artificial Intelligence",
+        "done": false
+    }
+]
