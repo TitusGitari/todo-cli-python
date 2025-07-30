@@ -15,4 +15,7 @@ Managing tasks is a common need—for individuals, developers, or even teams. Th
 ---
 
 ## 📁 Project Files
-
+todo_app/
+├── todo.py # Main application logic
+├── tasks.json # Where tasks are stored (in JSON format)
+└── README.md # Project information and usage instructions
